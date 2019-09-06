@@ -19,7 +19,7 @@ public class WhoamiApplication {
 		return new CommandLineRunner() {
 			@Override
 			public void run(String... args) throws Exception {
-				System.out.println("**************VERSION ONE***********");
+				System.out.println("**************VERSION TWO***********");
 			}
 		};
 	}
